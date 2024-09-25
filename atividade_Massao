@@ -1,0 +1,9 @@
+algoritmo "sequencia"
+variaveis
+   i: inteiro
+inicio
+   para i de 1 ate 4 faca
+      escreva(i)
+      escreva(i)
+   fimpara
+fimalgoritmo
